@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Qdown</string>
+    <string name="title_activity_welcome_shopkeeper">welcome_shopkeeper</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="sign_out">signout</string>
+    <string name="hint_phone_number">phone no.</string>
+    <string name="hint_verification_code">verification code</string>
+    <string name="start_phone_auth">Start Phone Authentication</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Resend</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TEXTCHECKING">TEXTCHECKING</string>
+    <string name="title_activity_welcome_user">welcome_user</string>
+    <string name="buy_now">Send for packing</string>
+</resources>
